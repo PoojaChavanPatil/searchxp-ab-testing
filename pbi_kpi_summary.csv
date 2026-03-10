@@ -1,0 +1,4 @@
+metric,control,treatment,lift
+CTR (%),48.48,54.89,6.41
+Avg Dwell Time (sec),151.29,180.71,29.42
+Bounce Rate (%),34.88,25.17,-9.71
